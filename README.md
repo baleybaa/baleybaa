@@ -104,7 +104,7 @@ A collection of real-world platforms and digital products I've worked on.
 
 <img src="https://github-stats-extended.vercel.app/api?username=baleybaa&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=baleybaa&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=baleybaa&layout=compact&theme=tokyonight&hide_border=true&hide=c%23,scss" alt="Top Languages" />
 
 <br/><br/>
 
