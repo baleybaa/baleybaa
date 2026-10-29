@@ -41,23 +41,45 @@ Building scalable web applications, beautiful user experiences, and AI-powered s
 
 </div>
 
+
 ### 📈 Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)
+<div align="center">
 
-### 🚀 Featured Projects
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&area=true)
 
-| Project | Description | Links |
-|---|---|---|
-| Project One | Full-stack MERN application | [Code](YOUR_REPO_URL) |
-| Project Two | Modern responsive frontend | [Code](YOUR_REPO_URL) |
-| Project Three | AI-integrated web application | [Code](YOUR_REPO_URL) |
+</div>
+
+
+## 🚀 Featured Projects
+
+Here are some of the real-world platforms and web applications I've worked on.
+
+| 🌐 Project | 🚀 Live Website |
+|---|---|
+| **TBot Panel** | [Visit Website](https://tbotpanel.com/login) |
+| **Aconomy** | [Visit Website](https://aconomy.com) |
+| **Aconomy Dashboard** | [Visit Dashboard](https://dashboard.aconomy.com) |
+| **Card Access** | [Visit Website](https://cardaccess.app) |
+| **Admin Cards** | [Visit Platform](https://admincards.com) |
+| **Koker App** | [Launch App](https://app.koker.io) |
+| **Koker** | [Visit Website](https://koker.io/) |
+
+---
+
+<div align="center">
+
+### 💼 Building Real-World Digital Experiences
+
+*Focused on modern frontend development, scalable MERN stack applications, and AI-powered solutions.*
+
+</div>
 
 ### 🤝 Connect With Me
 
-- Portfolio: [YOUR_PORTFOLIO_URL](https://bilal-fareed-portfolio.vercel.app/)
-- LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/bilal-fareed-4752aa210/)
-- Email: bilalxam007@gmail.com
+- Portfolio: [Visit Website](https://bilal-fareed-portfolio.vercel.app/)
+- LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/bilal-fareed-4752aa210/)
+- Email: [Contact Me](mailto:bilalxam007@gmail.com)
 
 ---
 
