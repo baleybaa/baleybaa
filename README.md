@@ -1,90 +1,162 @@
 
 <div align="center">
 
-# Hi, I'm Bilal Fareed 👋
+# Hey, I'm Bilal Fareed 👋
 
-### MERN Stack Developer | Frontend Engineer | AI Integration
+### 🚀 MERN Stack Developer | Frontend Engineer | AI Integration
 
-Building scalable web applications, beautiful user experiences, and AI-powered solutions.
+**Building scalable applications, modern interfaces & intelligent digital experiences.**
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Frontend+Engineer;AI-Powered+Web+Applications;Building+Modern+Digital+Experiences)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Frontend+Engineer;React+%26+Next.js+Developer;Exploring+AI-Powered+Solutions;Turning+Ideas+Into+Reality" alt="Typing Animation" />
+
+<br/>
+
+<a href="https://bilal-fareed-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/bilal-fareed-4752aa210/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:bilalxam007@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🚀 Building modern full-stack web applications
-- ⚡ Focused on performance, scalability and clean code
-- 🤖 Exploring AI integrations and intelligent workflows
-- 🎨 Creating responsive and accessible interfaces
-- 📚 Continuously improving my engineering skills
+I'm **Bilal Fareed**, a passionate **MERN Stack Developer & Frontend Engineer** focused on building modern, responsive, and scalable web applications.
 
-### 🛠️ Tech Stack
+I enjoy transforming complex ideas into elegant, high-performance digital products while exploring the possibilities of AI-powered development.
+
+- 💻 Building modern web applications with React & Next.js
+- 🚀 Developing scalable full-stack solutions
+- 🎨 Creating responsive and intuitive user experiences
+- ⚡ Focused on performance, clean code & maintainability
+- 🤖 Exploring AI integration and intelligent automation
+- 🌱 Continuously learning modern technologies
+- 🤝 Open to collaboration and exciting opportunities
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,nodejs,express,mongodb,redux,git,github,postman,vscode&perline=8)
+### 🎨 Frontend Technologies
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux&perline=8" />
+
+### ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=8" />
+
+### 🔧 Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,npm&perline=8" />
 
 </div>
+
+---
+
+## 🚀 Featured Projects
+
+A collection of real-world platforms and digital products I've worked on.
+
+| 🌐 Project | 🔗 Live Website |
+|:---|:---:|
+| 🤖 **TBot Panel** | [Visit Platform](https://tbotpanel.com/login) |
+| 🌍 **Aconomy** | [Explore Website](https://aconomy.com) |
+| 📊 **Aconomy Dashboard** | [Open Dashboard](https://dashboard.aconomy.com) |
+| 💳 **Card Access** | [Visit Application](https://cardaccess.app) |
+| 🛡️ **Admin Cards** | [Explore Platform](https://admincards.com) |
+| ⚡ **Koker Application** | [Launch Application](https://app.koker.io) |
+| 🚀 **Koker Website** | [Explore Website](https://koker.io/) |
+
+<div align="center">
+
+**💡 Building solutions that combine functionality, performance, and great user experiences.**
+
+</div>
+
+---
+
+## 💼 What I Focus On
+
+<div align="center">
+
+| 🎨 Frontend Engineering | ⚙️ Full Stack Development | 🤖 AI Integration |
+|:---:|:---:|:---:|
+| React & Next.js | MERN Stack | AI-Powered Features |
+| Responsive UI/UX | REST APIs | Intelligent Workflows |
+| Performance Optimization | Database Integration | API Integration |
+| Reusable Components | Scalable Architecture | Modern AI Tools |
+
+</div>
+
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=baleybaa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baleybaa&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=baleybaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
+---
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=baleybaa&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
 
 </div>
 
+---
 
-## 🚀 Featured Projects
+## 🌟 Development Philosophy
 
-Here are some of the real-world platforms and web applications I've worked on.
+> "Great software isn't just about writing code. It's about solving real problems, creating meaningful experiences, and continuously improving."
 
-| 🌐 Project | 🚀 Live Website |
-|---|---|
-| **TBot Panel** | [Visit Website](https://tbotpanel.com/login) |
-| **Aconomy** | [Visit Website](https://aconomy.com) |
-| **Aconomy Dashboard** | [Visit Dashboard](https://dashboard.aconomy.com) |
-| **Card Access** | [Visit Website](https://cardaccess.app) |
-| **Admin Cards** | [Visit Platform](https://admincards.com) |
-| **Koker App** | [Launch App](https://app.koker.io) |
-| **Koker** | [Visit Website](https://koker.io/) |
+I believe in writing clean, maintainable code and building applications that deliver real value.
 
 ---
 
-<div align="center">
-
-### 💼 Building Real-World Digital Experiences
-
-*Focused on modern frontend development, scalable MERN stack applications, and AI-powered solutions.*
-
-</div>
-
-### 🤝 Connect With Me
-
-- Portfolio: [Visit Website](https://bilal-fareed-portfolio.vercel.app/)
-- LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/bilal-fareed-4752aa210/)
-- Email: [Contact Me](mailto:bilalxam007@gmail.com)
-
----
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
-**Building. Learning. Innovating. 🚀**
+### Have an interesting project or opportunity?
+
+I'm always interested in discussing new ideas, web development, and innovative digital solutions.
+
+<a href="https://bilal-fareed-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/bilal-fareed-4752aa210/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:bilalxam007@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/>
+<br/>
+
+**⭐ Building. Learning. Innovating.**
+
+*Crafting the future, one line of code at a time.*
 
 </div>
