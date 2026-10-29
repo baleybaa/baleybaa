@@ -102,16 +102,15 @@ A collection of real-world platforms and digital products I've worked on.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=baleybaa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" alt="GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=baleybaa&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baleybaa&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=baleybaa&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=baleybaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
-
 ---
 
 ## 📈 Contribution Activity
